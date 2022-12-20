@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "callbacks"
+		},
+		{
+			"path": "classes"
+		},
+		{
+			"path": "DOM"
+		},
+		{
+			"path": "features"
+		},
+		{
+			"path": "json"
+		},
+		{
+			"path": "local storage"
+		},
+		{
+			"path": "promise"
+		}
+	]
+}
